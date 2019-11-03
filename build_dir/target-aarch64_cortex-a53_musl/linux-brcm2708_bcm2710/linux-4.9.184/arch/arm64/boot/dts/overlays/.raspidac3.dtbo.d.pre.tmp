@@ -1,0 +1,2 @@
+raspidac3-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/raspidac3-overlay.dts

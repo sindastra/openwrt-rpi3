@@ -1,0 +1,3 @@
+pisound-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/pisound-overlay.dts \
+ arch/arm64/boot/dts/include/dt-bindings/gpio/gpio.h

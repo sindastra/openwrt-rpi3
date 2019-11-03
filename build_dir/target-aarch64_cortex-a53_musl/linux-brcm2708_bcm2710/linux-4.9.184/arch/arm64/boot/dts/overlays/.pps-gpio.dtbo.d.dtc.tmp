@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/pps-gpio.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.pps-gpio.dtbo.dts.tmp

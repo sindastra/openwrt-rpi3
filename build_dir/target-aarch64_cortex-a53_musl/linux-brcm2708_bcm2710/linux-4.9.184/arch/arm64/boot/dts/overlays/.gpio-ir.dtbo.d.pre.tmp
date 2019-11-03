@@ -1,0 +1,2 @@
+gpio-ir-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/gpio-ir-overlay.dts

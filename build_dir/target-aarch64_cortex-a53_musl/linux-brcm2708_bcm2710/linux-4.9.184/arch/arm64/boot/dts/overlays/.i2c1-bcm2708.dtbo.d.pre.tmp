@@ -1,0 +1,2 @@
+i2c1-bcm2708-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/i2c1-bcm2708-overlay.dts

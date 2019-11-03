@@ -1,0 +1,2 @@
+sdio-1bit-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/sdio-1bit-overlay.dts

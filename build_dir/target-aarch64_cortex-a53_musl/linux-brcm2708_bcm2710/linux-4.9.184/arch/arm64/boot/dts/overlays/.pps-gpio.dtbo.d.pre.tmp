@@ -1,0 +1,2 @@
+pps-gpio-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/pps-gpio-overlay.dts

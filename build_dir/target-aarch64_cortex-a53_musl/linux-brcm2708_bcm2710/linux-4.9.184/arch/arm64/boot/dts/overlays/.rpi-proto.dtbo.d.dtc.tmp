@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/rpi-proto.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.rpi-proto.dtbo.dts.tmp

@@ -1,0 +1,2 @@
+uart1-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/uart1-overlay.dts

@@ -1,0 +1,2 @@
+dpi18-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/dpi18-overlay.dts

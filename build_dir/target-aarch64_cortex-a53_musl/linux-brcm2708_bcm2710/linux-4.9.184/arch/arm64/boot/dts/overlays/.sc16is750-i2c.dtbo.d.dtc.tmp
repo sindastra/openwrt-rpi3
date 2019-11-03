@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/sc16is750-i2c.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.sc16is750-i2c.dtbo.dts.tmp

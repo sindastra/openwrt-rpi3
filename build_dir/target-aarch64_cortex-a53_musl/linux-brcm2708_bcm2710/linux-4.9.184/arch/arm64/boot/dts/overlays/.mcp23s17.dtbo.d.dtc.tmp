@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/mcp23s17.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.mcp23s17.dtbo.dts.tmp

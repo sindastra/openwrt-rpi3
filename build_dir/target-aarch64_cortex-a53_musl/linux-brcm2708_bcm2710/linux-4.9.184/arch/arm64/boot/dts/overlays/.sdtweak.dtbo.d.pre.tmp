@@ -1,0 +1,2 @@
+sdtweak-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/sdtweak-overlay.dts

@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/mcp2515-can0.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.mcp2515-can0.dtbo.dts.tmp

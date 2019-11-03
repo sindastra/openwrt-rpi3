@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/sdio-1bit.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.sdio-1bit.dtbo.dts.tmp arch/arm64/boot/dts/broadcom/../overlays/sdhost-overlay.dts

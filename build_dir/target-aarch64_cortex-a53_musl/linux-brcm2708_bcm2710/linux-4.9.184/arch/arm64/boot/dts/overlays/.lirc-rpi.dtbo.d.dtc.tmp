@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/lirc-rpi.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.lirc-rpi.dtbo.dts.tmp

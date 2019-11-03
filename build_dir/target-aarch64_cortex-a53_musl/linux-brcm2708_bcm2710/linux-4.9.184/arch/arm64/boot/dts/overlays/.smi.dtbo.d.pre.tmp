@@ -1,0 +1,1 @@
+smi-overlay.o: arch/arm64/boot/dts/broadcom/../overlays/smi-overlay.dts

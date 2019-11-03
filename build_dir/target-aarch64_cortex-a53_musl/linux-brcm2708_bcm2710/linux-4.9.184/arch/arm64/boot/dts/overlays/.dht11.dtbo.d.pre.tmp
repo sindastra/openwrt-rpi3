@@ -1,0 +1,2 @@
+dht11-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/dht11-overlay.dts

@@ -1,0 +1,2 @@
+hy28b-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/hy28b-overlay.dts

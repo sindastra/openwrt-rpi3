@@ -1,0 +1,2 @@
+mz61581-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/mz61581-overlay.dts

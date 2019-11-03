@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/i2c-rtc.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.i2c-rtc.dtbo.dts.tmp

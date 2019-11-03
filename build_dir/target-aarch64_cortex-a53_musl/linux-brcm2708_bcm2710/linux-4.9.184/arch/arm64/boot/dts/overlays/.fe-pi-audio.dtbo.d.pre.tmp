@@ -1,0 +1,2 @@
+fe-pi-audio-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/fe-pi-audio-overlay.dts

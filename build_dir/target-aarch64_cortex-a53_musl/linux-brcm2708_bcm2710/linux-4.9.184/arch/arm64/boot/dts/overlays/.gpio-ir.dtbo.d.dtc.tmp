@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/broadcom/../overlays/gpio-ir.dtbo: arch/arm64/boot/dts/broadcom/../overlays/.gpio-ir.dtbo.dts.tmp

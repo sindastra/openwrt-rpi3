@@ -1,0 +1,2 @@
+at86rf233-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/at86rf233-overlay.dts

@@ -1,0 +1,2 @@
+mcp23s17-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/mcp23s17-overlay.dts

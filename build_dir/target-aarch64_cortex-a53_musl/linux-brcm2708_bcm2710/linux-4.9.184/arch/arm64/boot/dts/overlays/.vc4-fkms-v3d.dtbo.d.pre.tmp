@@ -1,0 +1,2 @@
+vc4-fkms-v3d-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/vc4-fkms-v3d-overlay.dts

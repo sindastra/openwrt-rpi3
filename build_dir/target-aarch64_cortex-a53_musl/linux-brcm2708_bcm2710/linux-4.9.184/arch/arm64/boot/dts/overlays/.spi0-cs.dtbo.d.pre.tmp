@@ -1,0 +1,2 @@
+spi0-cs-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/spi0-cs-overlay.dts

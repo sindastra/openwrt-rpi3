@@ -1,0 +1,2 @@
+pi3-disable-wifi-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/pi3-disable-wifi-overlay.dts

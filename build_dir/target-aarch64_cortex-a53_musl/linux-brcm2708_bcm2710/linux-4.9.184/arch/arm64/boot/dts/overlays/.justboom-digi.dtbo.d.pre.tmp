@@ -1,0 +1,2 @@
+justboom-digi-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/justboom-digi-overlay.dts

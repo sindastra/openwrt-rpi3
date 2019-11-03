@@ -1,0 +1,2 @@
+rpi-proto-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/rpi-proto-overlay.dts

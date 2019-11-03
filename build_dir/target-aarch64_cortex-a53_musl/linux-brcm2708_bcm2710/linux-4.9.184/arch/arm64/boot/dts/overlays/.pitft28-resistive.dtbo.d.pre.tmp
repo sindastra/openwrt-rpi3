@@ -1,0 +1,2 @@
+pitft28-resistive-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/pitft28-resistive-overlay.dts

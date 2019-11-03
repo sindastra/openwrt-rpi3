@@ -1,0 +1,2 @@
+rpi-sense-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/rpi-sense-overlay.dts

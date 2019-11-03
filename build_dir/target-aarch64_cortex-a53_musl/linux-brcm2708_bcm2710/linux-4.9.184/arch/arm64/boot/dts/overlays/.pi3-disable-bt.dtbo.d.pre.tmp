@@ -1,0 +1,2 @@
+pi3-disable-bt-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/pi3-disable-bt-overlay.dts

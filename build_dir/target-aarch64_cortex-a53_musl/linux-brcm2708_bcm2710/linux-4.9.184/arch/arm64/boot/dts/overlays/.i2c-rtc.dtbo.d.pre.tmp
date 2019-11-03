@@ -1,0 +1,2 @@
+i2c-rtc-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/i2c-rtc-overlay.dts

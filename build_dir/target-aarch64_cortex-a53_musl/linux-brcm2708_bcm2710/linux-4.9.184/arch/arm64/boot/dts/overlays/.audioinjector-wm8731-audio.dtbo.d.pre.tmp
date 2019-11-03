@@ -1,0 +1,2 @@
+audioinjector-wm8731-audio-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/audioinjector-wm8731-audio-overlay.dts

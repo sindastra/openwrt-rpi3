@@ -1,0 +1,2 @@
+audremap-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/audremap-overlay.dts

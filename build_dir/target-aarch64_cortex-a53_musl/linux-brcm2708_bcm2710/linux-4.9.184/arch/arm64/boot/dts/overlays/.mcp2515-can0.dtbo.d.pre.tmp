@@ -1,0 +1,2 @@
+mcp2515-can0-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/mcp2515-can0-overlay.dts

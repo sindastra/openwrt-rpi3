@@ -1,0 +1,22 @@
+# 1 "arch/arm64/boot/dts/broadcom/../overlays/smi-dev-overlay.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "arch/arm64/boot/dts/broadcom/../overlays/smi-dev-overlay.dts"
+
+
+
+/dts-v1/;
+/plugin/;
+
+/{
+ fragment@0 {
+  target = <&soc>;
+  __overlay__ {
+   smi_dev {
+    compatible = "brcm,bcm2835-smi-dev";
+    smi_handle = <&smi>;
+    status = "okay";
+   };
+  };
+ };
+};

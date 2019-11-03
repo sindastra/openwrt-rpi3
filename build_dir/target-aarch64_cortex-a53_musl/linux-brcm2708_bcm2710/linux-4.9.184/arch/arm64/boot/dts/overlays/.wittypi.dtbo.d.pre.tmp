@@ -1,0 +1,2 @@
+wittypi-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/wittypi-overlay.dts

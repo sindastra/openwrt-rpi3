@@ -1,0 +1,2 @@
+ads1015-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/ads1015-overlay.dts

@@ -1,0 +1,2 @@
+tinylcd35-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/tinylcd35-overlay.dts

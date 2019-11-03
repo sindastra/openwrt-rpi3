@@ -1,0 +1,2 @@
+pwm-2chan-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/pwm-2chan-overlay.dts

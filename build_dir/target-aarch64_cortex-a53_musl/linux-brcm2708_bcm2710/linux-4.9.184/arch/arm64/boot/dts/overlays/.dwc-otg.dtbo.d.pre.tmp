@@ -1,0 +1,2 @@
+dwc-otg-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/dwc-otg-overlay.dts

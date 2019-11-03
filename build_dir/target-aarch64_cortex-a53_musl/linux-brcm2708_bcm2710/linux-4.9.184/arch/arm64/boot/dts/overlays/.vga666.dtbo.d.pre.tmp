@@ -1,0 +1,2 @@
+vga666-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/vga666-overlay.dts

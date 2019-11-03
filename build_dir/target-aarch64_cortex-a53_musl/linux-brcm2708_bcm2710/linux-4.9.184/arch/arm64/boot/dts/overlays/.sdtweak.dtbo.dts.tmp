@@ -1,0 +1,27 @@
+# 1 "arch/arm64/boot/dts/broadcom/../overlays/sdtweak-overlay.dts"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "arch/arm64/boot/dts/broadcom/../overlays/sdtweak-overlay.dts"
+/dts-v1/;
+/plugin/;
+
+
+
+/{
+ compatible = "brcm,bcm2708";
+
+ fragment@0 {
+  target = <&sdhost>;
+  frag0: __overlay__ {
+   brcm,overclock-50 = <0>;
+   brcm,pio-limit = <1>;
+  };
+ };
+
+ __overrides__ {
+  overclock_50 = <&frag0>,"brcm,overclock-50:0";
+  force_pio = <&frag0>,"brcm,force-pio?";
+  pio_limit = <&frag0>,"brcm,pio-limit:0";
+  debug = <&frag0>,"brcm,debug?";
+ };
+};

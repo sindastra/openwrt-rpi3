@@ -1,0 +1,2 @@
+sdhost-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/sdhost-overlay.dts

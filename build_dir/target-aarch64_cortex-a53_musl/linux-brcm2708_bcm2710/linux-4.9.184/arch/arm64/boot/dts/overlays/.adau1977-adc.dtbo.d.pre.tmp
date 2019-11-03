@@ -1,0 +1,2 @@
+adau1977-adc-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/adau1977-adc-overlay.dts

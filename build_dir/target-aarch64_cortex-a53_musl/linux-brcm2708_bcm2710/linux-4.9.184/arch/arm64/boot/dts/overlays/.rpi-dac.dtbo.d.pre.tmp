@@ -1,0 +1,2 @@
+rpi-dac-overlay.o: \
+ arch/arm64/boot/dts/broadcom/../overlays/rpi-dac-overlay.dts
