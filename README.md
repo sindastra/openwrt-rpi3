@@ -6,7 +6,7 @@ To have a strong and complete foundation to start using your Pi with OpenWrt, wi
 
 #### Security features:
  - [x] TLS support by default, including encrypted web interface, tools, libraries, curl, and certificates.
- - [ ] Hardened SSH configuration
+ - [x] Hardened SSH configuration
 
 #### Image features:
  - [x] Use bigger filesystem size by default (microSD cards these days are way bigger than 256MB)!
