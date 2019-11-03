@@ -33,6 +33,8 @@ define Build/boot-img
 	mcopy -i $@.boot $(KDIR)/fixup_cd.dat ::
 	mcopy -i $@.boot cmdline.txt ::
 	mcopy -i $@.boot config.txt ::
+	mcopy -i $@.boot openwrt-18.06.4-brcm2708-bcm2710-rpi-3-ext4-factory.img.gz ::
+	mcopy -i $@.boot openwrt-18.06.4-brcm2708-bcm2710-rpi-3-ext4-sysupgrade.img.gz ::
 	mcopy -i $@.boot $(IMAGE_KERNEL) ::$(KERNEL_IMG)
 	$(foreach dts,$(shell echo $(DEVICE_DTS)),mcopy -i $@.boot $(DTS_DIR)/$(dts).dtb ::;)
 	mmd -i $@.boot ::/overlays
