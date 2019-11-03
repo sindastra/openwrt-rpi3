@@ -24,7 +24,9 @@ To have a strong and complete foundation to start using your Pi with OpenWrt, wi
    - [x] Travelmate to use as travel router
    - [x] SFTP server from OpenSSH
    - [x] Block-device drivers
-   - [ ] Block-device management GUI
+   - [x] Block-device management GUI
    - [x] Dynamic DNS support with GUI
    - [x] Adblock
+   - [X] Full wpad
+   - [X] Python3
    - [x] And more!
