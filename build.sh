@@ -5,6 +5,15 @@ PACKAGES=""
 # Block-device and filesystems and tools
 PACKAGES="$PACKAGES block-mount kmod-fs-ext4 kmod-fs-ntfs kmod-fs-vfat kmod-fs-btrfs kmod-usb-storage kmod-usb-storage-extras e2fsprogs kmod-usb-ohci kmod-usb-uhci fdisk gdisk"
 
+# System
+PACKAGES="$PACKAGES -wpad-mini wpad"
+
+# Tools
+PACKAGES="$PACKAGES nano vim"
+
+# Runtime
+PACKAGES="$PACKAGES python3"
+
 # SSL
 PACKAGES="$PACKAGES luci-ssl ca-certificates ca-bundle libustream-mbedtls curl"
 
