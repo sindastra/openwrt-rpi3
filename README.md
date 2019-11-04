@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W215OZB)
 # OpenWrt custom images for Raspberry Pi 3B and 3B+
 
 ### Goals of these images
